@@ -3,7 +3,7 @@
     "color": "#b5ffdb",
     "bgcolor": "#019671",
     "aircrafts": {
-        "1": {
+"1": {
             "name": "Piper J3 Cub",
             "liveries": [
             ],
@@ -31,15 +31,6 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-                {
-                    "name": "RP-C1146 EastSky old livery 737-700",
-                    "texture": [
-                "Normal map",
-                "Specular shader",
-                "https://ibb.co/pBFzLkMt"
-                    ],
-                    "credits": "GeoFS Flight Video Group"
-                     }
             ],
             "labels": [
                 "Normal map",
@@ -81,13 +72,23 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                {
+                    "name": "Imperium Airways A380-800",
+                    "texture": [
+                        "/models/aircraft/premium/a380/normal.jpg",
+                        "/models/aircraft/premium/a380/specular.jpg",
+                        "https://i.ibb.co/Xxn8YhZJ/IMPA380-FINAL.png"
+                    ],
+                    "credits": "GFVG-YT[10thGeo-Owner]"
+                }
             ],
             "labels": [
-                "Normal map",
-                "Specular shader",
+                "Normal",
+                "Specular Shader",
                 "Texture"
             ]
         },
+
         "11": {
             "name": "Alisport Silent 2 Electro",
             "liveries": [
@@ -278,7 +279,7 @@
         },
         "3575": {
             "name": "Boeing b787-9",
-            "liveries":[
+            "liveries": [
                 {
                     "name": "RP-C5030 EastSky 787-9",
                     "texture": [
@@ -314,7 +315,6 @@
                 {
                     "name": "RP-C9011 EastSky A320",
                     "texture": [
-            
                         "https://ibb.co/nN2YqJnK"
                     ],
                     "credits": "GeoFS Flight Video Group"
@@ -714,44 +714,6 @@
             "labels": [
                 "Fuselage texture",
                 "Engine texture"
-            ]
-        },
-        "29": {
-            "name": "Dassault Rafale",
-            "liveries": [
-            ],
-            "labels":[
-                "Normal map",
-                "Main texture",
-                "Specular shader",
-                "Cockpit texture"
-            ]
-        },
-        "2953": {
-            "name": "NASA Space Shuttle",
-            "liveries": [
-            ],
-            "labels":[
-                "Main texture",
-                "EFT",
-                "SRB"
-            ]
-        },
-        "1014": {
-            "name": "Ilyushin IL-76TD",
-            "liveries": [
-            ],
-            "labels": [
-                "Fuselage texture",
-                "Wing texture"
-            ]
-        },
-        "1023": {
-            "name": "McDonnell Douglas MD11",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture"
             ]
         }
     }
