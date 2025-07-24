@@ -1,6 +1,6 @@
 {
-    "name": "East Sky Airways",
-    "color": "ffffff",
+    "name": "EastSky Airways",
+    "color": "019671",
     "bgcolor": "b5ffdb",
     "aircrafts": {
         "1": {
@@ -31,15 +31,11 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
-                {
-                    "name": "EastSky Airways - old livery",
-                    "texture": [
+            ],
+            "labels": [
                 "Normal map",
                 "Specular shader",
-                "https://ibb.co/pBFzLkMt"
-                    ],
-                    "credits": "GeoFS Flight Video Group"
-                
+                "Texture"
             ]
         },
         "6": {
@@ -273,15 +269,16 @@
         },
         "3575": {
             "name": "Boeing b787-9",
-           "liveries": [
+            "liveries": [
                 {
-                    "name": "EastSky Airways RP-5030 787-9",
+                    "name": "RP-C5030 EastSky 787-9",
                     "texture": [
+            
                         "https://ibb.co/wFJh9LYK"
                     ],
                     "credits": "GeoFS Flight Video Group"
-            ]
-        },
+                }
+            ],
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
@@ -302,13 +299,14 @@
             "name": "Airbus a320neo",
             "liveries": [
                 {
-                    "name": "EastSky Airways RP-9011 A320neo",
+                    "name": "RP-C9011 EastSky A320",
                     "texture": [
+            
                         "https://ibb.co/nN2YqJnK"
                     ],
                     "credits": "GeoFS Flight Video Group"
-            ]
-        },
+                }
+            ],
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
@@ -422,6 +420,22 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                {
+                    "name": "RP-C1811 EastSky A350",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://ibb.co/5WtCxpdX"
+                    ],
+                    "credits": "GeoFS Flight Video Group"
+                },
+                {
+                    "name": "RP-C1823 Tribute to Imperium Livery A350",
+                    "texture": [
+                        "/models/aircraft/premium/a350/specular.jpg",
+                        "https://ibb.co/TDvbv4F1"
+                    ],
+                    "credits": "GeoFS Flight Video Group"
+                }
             ],
             "labels": [
                 "Specular shader",
@@ -470,8 +484,13 @@
         },
         "25": {
             "name": "Boeing b777-300ER",
-            "liveries": [
+            "liveries":[
             ],
+            "labels": [
+                "Specular shader",
+                "Texture"
+            ]
+        },
             "labels": [
                 "Specular shader",
                 "Texture"
@@ -526,6 +545,10 @@
             "name": "Bombardier Learjet45",
             "liveries": [
             ],
+            "labels": [
+                "Texture"
+            ]
+        },
             "labels": [
                 "Texture"
             ]
@@ -683,44 +706,6 @@
             "labels": [
                 "Fuselage texture",
                 "Engine texture"
-            ]
-        },
-        "29": {
-            "name": "Dassault Rafale",
-            "liveries": [
-            ],
-            "labels":[
-                "Normal map",
-                "Main texture",
-                "Specular shader",
-                "Cockpit texture"
-            ]
-        },
-        "2953": {
-            "name": "NASA Space Shuttle",
-            "liveries": [
-            ],
-            "labels":[
-                "Main texture",
-                "EFT",
-                "SRB"
-            ]
-        },
-        "1014": {
-            "name": "Ilyushin IL-76TD",
-            "liveries": [
-            ],
-            "labels": [
-                "Fuselage texture",
-                "Wing texture"
-            ]
-        },
-        "1023": {
-            "name": "McDonnell Douglas MD11",
-            "liveries": [
-            ],
-            "labels": [
-                "Texture"
             ]
         }
     }
