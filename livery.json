@@ -1,7 +1,7 @@
 {
     "name": "EastSky Airways",
-    "color": "019671",
-    "bgcolor": "b5ffdb",
+    "color": "#b5ffdb",
+    "bgcolor": "#019671",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
@@ -31,6 +31,14 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                {
+                    "name": "RP-C1146 EastSky old livery 737-700",
+                    "texture": [
+                "Normal map",
+                "Specular shader",
+                "https://ibb.co/pBFzLkMt"
+                    ],
+                    "credits": "GeoFS Flight Video Group"
             ],
             "labels": [
                 "Normal map",
@@ -269,7 +277,7 @@
         },
         "3575": {
             "name": "Boeing b787-9",
-            "liveries": [
+            "liveries":[
                 {
                     "name": "RP-C5030 EastSky 787-9",
                     "texture": [
@@ -279,6 +287,10 @@
                     "credits": "GeoFS Flight Video Group"
                 }
             ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "3534": {
             "name": "Airbus a320-214",
             "liveries": [
@@ -307,6 +319,10 @@
                     "credits": "GeoFS Flight Video Group"
                 }
             ],
+            "labels": [
+                "Texture"
+            ]
+        },
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
@@ -484,13 +500,8 @@
         },
         "25": {
             "name": "Boeing b777-300ER",
-            "liveries":[
+            "liveries": [
             ],
-            "labels": [
-                "Specular shader",
-                "Texture"
-            ]
-        },
             "labels": [
                 "Specular shader",
                 "Texture"
@@ -545,10 +556,6 @@
             "name": "Bombardier Learjet45",
             "liveries": [
             ],
-            "labels": [
-                "Texture"
-            ]
-        },
             "labels": [
                 "Texture"
             ]
@@ -706,6 +713,44 @@
             "labels": [
                 "Fuselage texture",
                 "Engine texture"
+            ]
+        },
+        "29": {
+            "name": "Dassault Rafale",
+            "liveries": [
+            ],
+            "labels":[
+                "Normal map",
+                "Main texture",
+                "Specular shader",
+                "Cockpit texture"
+            ]
+        },
+        "2953": {
+            "name": "NASA Space Shuttle",
+            "liveries": [
+            ],
+            "labels":[
+                "Main texture",
+                "EFT",
+                "SRB"
+            ]
+        },
+        "1014": {
+            "name": "Ilyushin IL-76TD",
+            "liveries": [
+            ],
+            "labels": [
+                "Fuselage texture",
+                "Wing texture"
+            ]
+        },
+        "1023": {
+            "name": "McDonnell Douglas MD11",
+            "liveries": [
+            ],
+            "labels": [
+                "Texture"
             ]
         }
     }
