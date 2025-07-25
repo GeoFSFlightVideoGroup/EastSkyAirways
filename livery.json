@@ -32,9 +32,9 @@
             "name": "Boeing b737-700",
             "liveries":[
                 {
-                    "name": "RP-C1811 EastSky A350",
+                    "name": "RP-C1146 EastSky old livery 737",
                     "texture": [
-                        "https://i.ibb.co/WWLrNx6P/image.png",
+                        "/models/aircraft/premium/737_700/specular.jpg",
                         "https://i.ibb.co/7dmW10Zw/New-Project-4.png"
                     ],
                     "credits": "GeoFS Flight Video Group"
