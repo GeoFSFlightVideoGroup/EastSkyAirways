@@ -38,7 +38,8 @@
                         "https://i.ibb.co/7dmW10Zw/New-Project-4.png"
                     ],
                     "credits": "GeoFS Flight Video Group"
-                },
+                  }
+            ],   
             "labels": [
                 "Normal map",
                 "Specular shader",
