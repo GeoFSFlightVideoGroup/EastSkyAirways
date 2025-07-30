@@ -514,8 +514,9 @@
                     "texture": [
                         "https://ibb.co/39z437Vk",
                         "https://i.ibb.co/mFCGR6rw/RP-C2247.png"
-                    ],
+                     ],
                     "credits": "GeoFS Flight Video Group"
+                  }
             ],
             "labels": [
                 "Specular shader",
