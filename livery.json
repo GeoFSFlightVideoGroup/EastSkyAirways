@@ -508,7 +508,14 @@
                         "https://i.ibb.co/RTqJBw8j/EAS777.png"
                     ],
                     "credits": "GeoFS Flight Video Group"
-                }
+                },
+                {
+                    "name": "RP-C2247 EastSky Basic livery 777-300ER",
+                    "texture": [
+                        "https://ibb.co/39z437Vk",
+                        "https://i.ibb.co/mFCGR6rw/RP-C2247.png"
+                    ],
+                    "credits": "GeoFS Flight Video Group"
             ],
             "labels": [
                 "Specular shader",
