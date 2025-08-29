@@ -510,6 +510,14 @@
                     ],
                     "credits": "GeoFS Flight Video Group"
                 },
+                                {
+                    "name": "RP-C2249 EastSky 777-300ER",
+                    "texture": [
+                        "https://ibb.co/39z437Vk",
+                        "https://i.ibb.co/HT5P2y9b/RP-C2249-777.png"
+                    ],
+                    "credits": "GeoFS Flight Video Group"
+                },
                 {
                     "name": "RP-C2247 EastSky Basic livery 777-300ER",
                     "texture": [
@@ -734,4 +742,5 @@
         }
     }
 }
+
 
